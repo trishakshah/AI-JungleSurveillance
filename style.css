@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgb(255, 255, 255, 0.4);
+    padding: 25px;
+    border-radius: 25px;
+    border-color: black;
+    border-width: 3px;
+    width: 60%;
+}
+
+#startbtn {
+    font-size: large;
+    border-radius: 25px;
+}
+
+h3 {
+    background-color: rgb(255, 255, 255, 0.4);
+    width: 80%;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+#footerDiv {
+    bottom: 0;
+    position: fixed;
+    height: 10px;
+    width: 100%;
+    background-color: rgb(255, 255, 255, 0.4);
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+canvas {
+    margin-top: 80px;
+}
